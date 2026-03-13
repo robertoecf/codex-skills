@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning"
+  short_description: "Explain code logic and architecture"
+  default_prompt: "Use $learning to explain this code path, its architectural decisions, and the tradeoffs involved."
